@@ -1,4 +1,3 @@
-// To test this file, run gcc -Wall -save-temps macro.c -o macro and check macro.i
 
 #include<stdio.h>
 
