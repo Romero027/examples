@@ -18,7 +18,6 @@ int main( ) {
     strcpy( data.str, "C Programming");
 
     printf( "data.f : %f\n", data.f);
-    printf( "data.str : %s\n", data.str);
 
 
     return 0;
